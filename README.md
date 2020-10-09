@@ -29,14 +29,14 @@ $ sudo service tor start
 <li>sudo pip3 install requirements.txt</li>
 <ul> 
 
-### [Getting started]###
+### [Getting started] ###
 
 <ul>
 <li>git clone https://github.com/r3k4t/AutoTorIP.git</li>
 <li>cd AutoTorIP</li>
 <li>sudo python3 auto_tor_ip.py.py</li>
 
-####[Tested On]
+####[Tested On] ###
 
 <ul>
 <li>Ubuntu</li>
@@ -46,6 +46,6 @@ $ sudo service tor start
 <li>BackBox</li>
 </ul>
 
-### [Screentshot]
+### [Screentshot] ###
 
 ![Screenshot at 2020-10-09 07-25-43](https://user-images.githubusercontent.com/69615463/95543296-c293f700-0a15-11eb-93ea-5589b8c1ea0e.png)
