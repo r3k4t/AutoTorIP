@@ -27,7 +27,7 @@ $ sudo service tor start
 
 <ul>
 <li>sudo pip3 install requirements.txt</li>
-<ul> 
+</ul> 
 
 ### [Getting started] ###
 
@@ -35,6 +35,7 @@ $ sudo service tor start
 <li>git clone https://github.com/r3k4t/AutoTorIP.git</li>
 <li>cd AutoTorIP</li>
 <li>sudo python3 auto_tor_ip.py.py</li>
+</ul>
 
 ####[Tested On] ###
 
