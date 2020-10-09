@@ -37,7 +37,7 @@ $ sudo service tor start
 <li>sudo python3 auto_tor_ip.py.py</li>
 </ul>
 
-####[Tested On] ###
+### [Tested On] ###
 
 <ul>
 <li>Ubuntu</li>
