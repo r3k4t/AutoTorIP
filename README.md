@@ -47,6 +47,9 @@ $ sudo service tor start
 <li>BackBox</li>
 </ul>
 
-### [Screentshot] ###
+### [Screentshots] ###
 
 ![Screenshot at 2020-10-09 07-25-43](https://user-images.githubusercontent.com/69615463/95543296-c293f700-0a15-11eb-93ea-5589b8c1ea0e.png)
+
+![95190437-f2ac8180-07ec-11eb-82f3-ed6ff96552c4](https://user-images.githubusercontent.com/69615463/95545124-a0e93e80-0a1a-11eb-8688-c7401bdc81d8.png)
+
