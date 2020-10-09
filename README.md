@@ -19,7 +19,7 @@ We need to install Tor on our system. Open a terminal and type the following com
 
 $ sudo apt install tor
 
-Now,we can start tor network.Open a terminal and type the following command :
+Now,we have started tor network.Open a terminal and type the following command :
 
 $ sudo service tor start
 
