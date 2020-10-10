@@ -1,3 +1,4 @@
 pyfiglet
 termcolor
 colorama
+cprint
