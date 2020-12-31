@@ -26,7 +26,9 @@ $ sudo service tor start
 ### [Setup] ###
 
 <ul>
+<li>sudo apt install python3-setuptools</li>
 <li>sudo pip3 install requirements.txt</li>
+<li>sudo apt install python3-socks</li> 
 </ul> 
 
 ### [Getting started] ###
